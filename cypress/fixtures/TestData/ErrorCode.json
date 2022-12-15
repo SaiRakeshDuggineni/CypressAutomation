@@ -1,0 +1,8 @@
+{
+  "errorCodes": {
+    "errorCodeBadRequest": "BAD_REQUEST",
+    "errorCodeNotFound": "NOT_FOUND",
+    "errorCodeUnprocessableEntity": "UNPROCESSABLE_ENTITY",
+    "errorCodeDuplicateEntry": "DUPLICATE_ENTRY"
+    }
+}

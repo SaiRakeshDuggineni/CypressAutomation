@@ -1,0 +1,23 @@
+{
+    "createServer": {
+        "name": "autotesting19082022",
+        "type": "autotesting19082022",
+        "serverUrl": "www.testing.com"
+    },
+
+    "patchServer": {
+        "name": "autotesting19082022",
+        "type": "autotesting19082022"
+    },
+
+    "patchNonPayloadServer": {
+        "name": "autotesting19082022",
+        "nonPayload": "autotestingNonPayload19082022"
+    },
+
+    "putServer": {
+        "name": "autotesting19082022",
+        "type": "autotesting19082022"
+    }
+
+}

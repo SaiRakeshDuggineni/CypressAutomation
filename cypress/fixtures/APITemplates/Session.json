@@ -1,0 +1,18 @@
+{
+    "createSession": {
+        "endpointUrl": "https://Testing",
+        "status": "Logged-in"
+    },
+    "patchSession": {
+        "status": "Terminated",
+        "tenantName": "autoupdatedviaPatch"
+    },
+    "patchNonPayloadSession": {
+        "tenantName": "autotesting19082022",
+        "nonPayload": "autotestingNonPayload19082022"
+    },
+    "putSession": {
+        "endpointUrl": "https://Testing",
+        "status": "Logged-in"
+    }
+}

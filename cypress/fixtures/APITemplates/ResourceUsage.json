@@ -1,0 +1,21 @@
+{
+    "createResourceUsage": {
+        "resourceId": "autotesting19082022",
+        "tenantId": "autotesting19082022"
+    },
+
+    "patchResourceUsage": {
+        "resourceId": "autotesting19082022",
+        "tenantId": "autotesting19082022"
+    },
+
+    "patchNonPayloadResourceUsage": {
+        "resourceId": "autotesting19082022",
+        "tenantId": "autotesting19082022"
+    },
+
+    "putResourceUsage": {
+        "resourceId": "autotesting19082022",
+        "tenantId": "autotesting19082022"
+    }
+}

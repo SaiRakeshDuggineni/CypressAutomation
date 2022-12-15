@@ -1,0 +1,18 @@
+{
+    "createFeature": {
+        "productId": "12345",
+        "feature": "automationFeature"
+    },
+    "patchFeature": {
+        "productId": "12345",
+        "feature": "UpdatePatchAutomationFeature"
+    },
+    "patchNonPayloadFeature": {
+        "productId": "autotesting19082022",
+        "nonPayload": "autotestingNonPayload19082022"
+    },
+    "putFeature": {
+        "productId": "12345",
+        "feature": "UpdatePutAutomationFeature"
+    }
+}

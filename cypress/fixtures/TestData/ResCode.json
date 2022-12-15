@@ -1,0 +1,32 @@
+{
+    "GET": {
+        "codes": {
+            "success": 200,
+            "failure": 404
+        }},
+    "POST": {
+        "codes": {
+            "success": 201,
+            "failure": 400,
+            "invalidData": 422
+        }},
+    "DELETE": {
+        "codes": {
+            "success": 204, 
+            "failure": 404
+    }},
+    "PATCH": {
+        "codes": {
+            "success": 200, 
+            "failure": 404,
+            "InvalidCol": 400,
+            "invalidData": 422
+    }},
+    "PUT": {
+        "codes": {
+            "success": 200, 
+            "junctionTableSuccess": 204,
+            "failure": 404,
+            "invalidData": 422
+    }} 
+}

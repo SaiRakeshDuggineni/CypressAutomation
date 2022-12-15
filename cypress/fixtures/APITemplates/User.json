@@ -1,0 +1,19 @@
+{
+    "createUser": {
+        "externalUserId": "UserId",
+        "email": "email"
+    },
+    "patchUser": {
+        "externalUserId": "UserId",
+        "email": "email"
+    },
+    "patchNonPayloadUser": {
+        "externalUserId": "UserId",
+        "email": "email"
+    },
+    "putUser": {
+        "externalUserId": "UserId",
+        "email": "email"
+    }
+
+}

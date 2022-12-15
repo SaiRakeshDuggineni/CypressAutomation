@@ -1,0 +1,17 @@
+{
+    "createResource": {
+        "resource": "autotesting19082022"
+    },
+
+    "patchResource": {
+        "resource": "autoupdatedviaPatch"
+    },
+
+    "patchNonPayloadResource": {
+        "resource": "autoupdatedviaPatch"
+    },
+
+    "putResource": {
+        "resource": "autoupdatedviaPut"
+    }
+}

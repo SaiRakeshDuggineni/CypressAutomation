@@ -1,0 +1,6 @@
+{
+    "createTenantSec": {
+        "idpName": "idpName",
+        "idpUrl": "stringyyy"
+    }
+}

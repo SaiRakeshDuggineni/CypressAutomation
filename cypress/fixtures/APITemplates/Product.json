@@ -1,0 +1,11 @@
+{
+  "createProduct": {
+    "id": 0,
+    "productName": "string"
+  },
+
+  "patch": {
+    "productName": "autoupdatedviaPatch",
+    "baseUrl"    : "threadintel.io"
+  }
+}

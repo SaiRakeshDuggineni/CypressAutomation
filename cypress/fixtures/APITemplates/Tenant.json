@@ -1,0 +1,22 @@
+{
+    "createTenant": {
+        "companyName": "autotesting19082022",
+        "tenantName": "autotesting19082022"
+    },
+
+    "patchTenant": {
+        "companyName": "autoupdatedviaPatch",
+        "tenantName": "autoupdatedviaPatch"
+    },
+
+    "patchNonPayloadTenant": {
+        "companyName": "autoupdatedviaPatch",
+        "nonPayload": "autoupdatedviaPatch"
+    },
+
+    "putTenant": {
+        "companyName": "autoupdatedviaPut",
+        "tenantName": "autoupdatedviaPut"
+    }
+
+}
