@@ -1,0 +1,17 @@
+{
+  "name": "cypress-bdd-implementation",
+  "version": "1.0.0",
+  "description": "A10 SAAS Platform Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Dwivedi",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^12.0.0-rc1",
+    "@cypress/webpack-preprocessor": "^5.12.0",
+    "cypress": "^10.6.0",
+    "cypress-fill-command": "^1.0.2"
+  }
+}

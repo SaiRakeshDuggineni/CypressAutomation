@@ -1,2 +1,3 @@
-# CypressAutomation
-This repository will have cypress Automation Framework for API
+# qa-automation
+
+QA Automation Code
